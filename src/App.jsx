@@ -4,7 +4,9 @@ import Sidebar from "./Components/Sidebar.jsx";
 function App() {
   return (
     <>
+      {/* Navbar */}
       <Navbar />
+      {/* Sidebar */}
       <Sidebar />
     </>
   );
